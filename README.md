@@ -4,7 +4,7 @@ Angular Seed makes starting with an AngularJS app a little easier. It brings you
 
 ## Installation
 
-Just download the latest release [here](tags), extract it and start hacking.
+Just download the latest release [here](https://github.com/walski/angular-seed.rb/tags), extract it and start hacking.
 
 ## Usage
 
