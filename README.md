@@ -4,7 +4,10 @@ Angular Seed makes starting with an AngularJS app a little easier. It brings you
 
 ## Installation
 
-Just download the latest release [here](https://github.com/walski/angular-seed.rb/tags), extract it and start hacking.
+1. Download the latest release [here](https://github.com/walski/angular-seed.rb/tags) and extract it
+2. ``cd`` into the extracted folder
+3. Make sure you run on Ruby 1.9.3 (better install [RVM](https://rvm.io/))
+4. Bundle with: ``bundle install``
 
 ## Usage
 

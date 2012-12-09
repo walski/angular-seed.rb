@@ -1,5 +1,6 @@
 # 0.0.2 WIP
 
+* Improves install instructions
 * Fixes link in README
 * Adds CHANGELOG
 
