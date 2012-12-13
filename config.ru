@@ -1,3 +1,5 @@
+ENV['RACK_ENV'] ||= 'development'
+
 Bundler.require
 
 require 'angular-seed'
