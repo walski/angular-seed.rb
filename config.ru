@@ -1,3 +1,5 @@
+require 'bundler'
+
 ENV['RACK_ENV'] ||= 'development'
 
 Bundler.require
