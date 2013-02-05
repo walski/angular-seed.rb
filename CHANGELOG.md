@@ -1,5 +1,6 @@
 # 0.0.2 WIP
 
+* Now runs on Pow out of the box
 * Sets the ``RACK_ENV`` to ``development`` by default to enable asset reloading
 * Improves install instructions
 * Fixes link in README
