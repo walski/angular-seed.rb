@@ -1,4 +1,4 @@
-# 0.0.2 WIP
+# 0.0.2
 
 * Now runs on Pow out of the box
 * Sets the ``RACK_ENV`` to ``development`` by default to enable asset reloading
