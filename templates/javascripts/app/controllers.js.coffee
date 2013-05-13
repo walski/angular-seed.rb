@@ -1,8 +1,6 @@
 # Controllers
-@MyCtrl1 = ($rootScope) ->
+angular.module("myApp.controllers", []).controller("MyCtrl1", ['$rootScope', ($rootScope) ->
   $rootScope.activeView = "view1"
-@MyCtrl2 = ($rootScope) ->
+]).controller "MyCtrl2", ['$rootScope', ($rootScope) ->
   $rootScope.activeView = "view2"
-
-@MyCtrl1.$inject = ["$rootScope"]
-@MyCtrl2.$inject = ["$rootScope"]
+]
